@@ -14,6 +14,6 @@ print(type(hello))
 # example:
 string = 'hello'
 
-# the '.upper()' portion is the method of the class string
+# the '.upper()' portion is the method of the class String
 print(string.upper())
 
