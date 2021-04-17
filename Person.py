@@ -23,7 +23,7 @@ p1 = Person('Ari')
 # print(p1.number_of_people)
 p2  = Person('Tim')
 # print(p2.number_of_people)
-print(Person.number_of_people)
+print(Person.get_number_of_people())
 
 # you can change the class instance variable values outside of the class if need be
 # Person.number_of_people = 8
